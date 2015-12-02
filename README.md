@@ -1,3 +1,8 @@
-# My Awesome Book
+# DERECHO CIVIL PERSONAS 1
 
-This file serves as your book's preface, a great place to describe your book's content and ideas.
+## Unidad Académica de Jurisprudencia, Ciencias Sociales y Políticas
+
+
+Quito - Ecuador
+
+2015
