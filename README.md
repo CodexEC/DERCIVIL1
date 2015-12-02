@@ -1,4 +1,4 @@
-# DERECHO CIVIL PERSONAS 1
+# Derecho Civil Personas 1
 
 ## Unidad Académica de Jurisprudencia, Ciencias Sociales y Políticas
 
