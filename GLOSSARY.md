@@ -2,4 +2,4 @@
 
 ## pecuniaria
 
-Relativo al dinero en efectivo
+Del dinero o relacionado con el dinero.
