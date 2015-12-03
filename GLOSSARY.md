@@ -1,5 +1,5 @@
 # Glosario
 
-## pecunaria
+## pecuniaria
 
 Relativo al dinero en efectivo
