@@ -17,4 +17,5 @@
        * [La Doctrina](1/9.4.md)
 * [De la Ley, su vigencia y palabras de uso jurídico](2/c2.md)
    * [La Interpretación Auténtica](2/1.md)
+   * La Interpretación Judicial
 
