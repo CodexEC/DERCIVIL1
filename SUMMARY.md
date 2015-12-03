@@ -12,5 +12,5 @@
    * [Fuentes del Derecho: Generalidades](1/8.md)
    * [Fuentes del Derecho Civil Ecuatoriano](1/9.md)
        * [La Ley](1/9.1.md)
-       * La Costumbre
+       * [La Costumbre](1/9.2.md)
 
