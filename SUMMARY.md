@@ -6,4 +6,5 @@
    * [El Estado Constitucional de Derechos y Justicia](1/2.md)
    * [Las normas jurídicas, consecuencia del Estado Constitucional de Derechos y Justicia](1/3.md)
    * [Derecho Objetivo y Derecho Subjetivo](1/4.md)
+   * Clasificaciones que admite el Derecho
 
