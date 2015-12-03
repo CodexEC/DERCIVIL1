@@ -1,22 +1,8 @@
-# Capitulo 1
+# DERECHO CIVIL PERSONAS 1
 
+![FizzVR](http://k46.kn3.net/8/6/1/4/B/5/3D4.jpg)
 
-## Del Derecho y sus Fuentes
+## Unidad Académica de Jurisprudencia, Ciencias Sociales y Políticas
 
-
-A través del análisis del presente capitulo, usted estará en condiciones de:
-
-
-### Objetivos Operacionales:
-* Describir los aspectos generales del Derecho.
-* Describir el Estado Constitucional de Derechos y Justicia.
-* Establecer como se crean las normas jurídicas en el Estado Constitucional de Derechos y Justicia.
-* Diferenciar al Derecho Subjetivo del Derecho Objetivo.
-* Distinguir las clases de Derechos Subjetivos.
-* Establecer con claridad cada una de las clasificaciones que admite el Derecho. Público, Privado y Social.
-* Identificar el contenido del Derecho Civil.
-* Determinar histórica y jurídicamente al Derecho Civil en el Ecuador.
-* Determinar la estructura del código civil Ecuatoriano.
-* Conceptuar al Derecho, tomando en consideración a las Fuentes Históricas y a sus Fuente Productoras.
-* Identificar las Fuentes del Derecho Civil: La Ley, La Costumbre, La Jurisprudencia y la Doctrina.
+Contenido Científico
 
