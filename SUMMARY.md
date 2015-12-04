@@ -22,5 +22,5 @@
        * [Condiciones de la excepción de la Cosa Juzgada](2/3.1.md)
    * [El Concurso de Leyes](2/4.md)
    * [Vigencia de la Ley](2/5.md)
-   * Promulgación y Publicación de la Ley
+   * [Promulgación y Publicación de la Ley](2/6.md)
 
