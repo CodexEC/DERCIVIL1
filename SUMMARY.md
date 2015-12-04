@@ -19,5 +19,5 @@
    * [La Interpretación Auténtica](2/1.md)
    * [La Interpretación Judicial](2/2.md)
    * [La Cosa Juzgada](2/3.md)
-       * [Condiciones de la exepción de la Cosa Juzgada](2/3.1.md)
+       * [Condiciones de la excepción de la Cosa Juzgada](2/3.1.md)
 
