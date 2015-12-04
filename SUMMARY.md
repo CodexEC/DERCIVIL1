@@ -18,4 +18,5 @@
 * [De la Ley, su vigencia y palabras de uso jurídico](2/c2.md)
    * [La Interpretación Auténtica](2/1.md)
    * [La Interpretación Judicial](2/2.md)
+   * La Cosa Juzgada
 
