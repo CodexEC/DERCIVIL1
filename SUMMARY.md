@@ -24,5 +24,5 @@
    * [Vigencia de la Ley](2/5.md)
    * [Promulgación y Publicación de la Ley](2/6.md)
    * [Conocimiento de la Ley](2/7.md)
-       * [7.1](2/7.1.md)
+       * [Articulos 5, 6 y 13 del Código Civil Ecuatoriano](2/7.1.md)
 
