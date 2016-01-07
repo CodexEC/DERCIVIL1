@@ -1,0 +1,32 @@
+{
+    "gitbook": ">=2.0.0",
+    "title": "Derecho Civil 1",
+    "description": "Aprende el Código",
+    "language": "es",
+    "githubId": "CodexEC/DerechoCivil1",
+    "username": "CodexEC",
+    "name": "Vladimir Rodríguez",
+    "urls.profile": "http://github.com/fizzvr",
+    "accounts.github": "fizzvr",
+    "book": "minimalist",
+    "plugins": ["github","github-buttons"],
+    "links": {
+        "sidebar": {
+            "Contáctame / Soporte": "http://fizzvr.github.io"
+        }
+    },
+    "pluginsConfig": {
+        "github": {
+          "url": "https://github.com/CodexEC/DerechoCivil1"
+        },
+        "github-buttons": {
+          "repo": "fizzvr",
+          "types": [
+            "follow"
+          ],
+          "size": [
+              "none"
+          ]
+        }
+    }
+}
