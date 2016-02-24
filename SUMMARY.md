@@ -26,5 +26,5 @@
    * [Conocimiento de la Ley](2/7.md)
        * [Articulos 5, 6 y 13 del Código Civil Ecuatoriano](2/7.1.md)
    * [Eficacia de la Normas Jurídicas](2/8.md)
-* De las personas, de la familia y de las personas naturales
+* [De las personas, de la familia y de las personas naturales](3/c3.md)
 
