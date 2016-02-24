@@ -31,5 +31,5 @@
 * [Atributos de personalidad](4/c4.md)
    * [Características esenciales de los derechos de la personalidad](4/1.md)
    * [Atributos de la personalidad](4/2.md)
-       * Capacidad de goce
+       * [Capacidad de goce](4/2.1.md)
 
