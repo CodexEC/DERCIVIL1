@@ -34,5 +34,5 @@
        * [Capacidad de goce](4/2.1.md)
        * [El domicilio](4/2.2.md)
        * [La nacionalidad](4/2.3.md)
-       * El nombre
+       * [El nombre](4/2.4.md)
 
