@@ -26,5 +26,4 @@
    * [Conocimiento de la Ley](2/7.md)
        * [Articulos 5, 6 y 13 del Código Civil Ecuatoriano](2/7.1.md)
    * [Eficacia de la Normas Jurídicas](2/8.md)
-* [Atributos de personalidad](4/c4.md)
 
