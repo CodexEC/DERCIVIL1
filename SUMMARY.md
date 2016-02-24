@@ -37,5 +37,5 @@
        * [El nombre](4/2.4.md)
        * [El estado civil](4/2.5.md)
        * [El patrimonio](4/2.6.md)
-   * El parentesco
+   * [El parentesco](4/3.md)
 
