@@ -1,9 +1,13 @@
 # Glossary
 
+## corpórea
+
+Que tiene cuerpo, volumen o consistencia material.
+
 ## pecuniaria
 
 Del dinero o relacionado con el dinero.
 
-## corpórea
+## computa
 
-Que tiene cuerpo, volumen o consistencia material.
+Tomar en cuenta, considerar en atención a cierta medida.
