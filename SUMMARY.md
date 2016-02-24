@@ -36,5 +36,5 @@
        * [La nacionalidad](4/2.3.md)
        * [El nombre](4/2.4.md)
        * [El estado civil](4/2.5.md)
-       * El patrimonio
+       * [El patrimonio](4/2.6.md)
 
