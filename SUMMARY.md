@@ -28,5 +28,5 @@
    * [Eficacia de la Normas Jurídicas](2/8.md)
 * [De las personas, de la familia y de las personas naturales](3/c3.md)
    * [Conceptuación y clasificación de la personas](3/1.md)
-* Atributos de personalidad
+* [Atributos de personalidad](4/c4.md)
 
