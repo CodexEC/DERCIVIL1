@@ -30,5 +30,5 @@
    * [Conceptuación y clasificación de la personas](3/1.md)
 * [Atributos de personalidad](4/c4.md)
    * [Características esenciales de los derechos de la personalidad](4/1.md)
-   * Atributos de la personalidad
+   * [Atributos de la personalidad](4/2.md)
 
