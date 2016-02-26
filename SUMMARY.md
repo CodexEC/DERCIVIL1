@@ -58,5 +58,5 @@
        * [Tercera causal](6/6.3.md)
        * [Cuarta causal](6/6.4.md)
        * [Quinta causal](6/6.5.md)
-       * Sexta causal
+       * [Sexta causal](6/6.6.md)
 
