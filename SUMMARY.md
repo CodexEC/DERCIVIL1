@@ -47,5 +47,5 @@
    * [Terminación del matrimonio por sentencia ejecutoriada que declare su nulidad](5/5.md)
    * [La unión de hecho](5/6.md)
 * [El divorcio](6/c6.md)
-   * Generalidades
+   * [Generalidades](6/1.md)
 
