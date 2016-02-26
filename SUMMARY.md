@@ -48,5 +48,5 @@
    * [La unión de hecho](5/6.md)
 * [El divorcio](6/c6.md)
    * [Generalidades](6/1.md)
-   * El divorcio vincular
+   * [El divorcio vincular](6/2.md)
 
