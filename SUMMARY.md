@@ -54,5 +54,5 @@
    * [Divorcio contencioso](6/5.md)
    * [Análisis de las causales de divorcio](6/6.md)
        * [Primera causal](6/6.1.md)
-       * Segunda causal
+       * [Segunda causal](6/6.2.md)
 
