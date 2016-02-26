@@ -46,5 +46,5 @@
    * [Causales de terminación del matrimonio](5/4.md)
    * [Terminación del matrimonio por sentencia ejecutoriada que declare su nulidad](5/5.md)
    * [La unión de hecho](5/6.md)
-* El divorcio
+* [El divorcio](6/c6.md)
 
