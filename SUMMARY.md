@@ -52,7 +52,7 @@
    * [El divorcio según la Ley Civil Ecuatoriana](6/3.md)
    * [Divorcio por mutuo consentimiento o consensual](6/4.md)
    * [Divorcio contencioso](6/5.md)
-   * [Análisis de las causales de divorcio](6/6.md)
+   * [Causales de divorcio](6/6.md)
        * [Primera causal](6/6.1.md)
        * [Segunda causal](6/6.2.md)
        * [Tercera causal](6/6.3.md)
